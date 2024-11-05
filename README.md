@@ -10,16 +10,6 @@ An innovative Flutter-based application for detecting facial expressions and ana
 - **Loading Screen**: A visually appealing loading screen to enhance user experience while processing images.
 - **Supports Camera and Gallery Inputs**: Flexible options for capturing an image from the camera or selecting from the gallery.
 
-## Getting Started
-
-To get started with this project, clone the repository and ensure you have Flutter and the necessary dependencies installed.
-
-```bash
-git clone https://github.com/username/face-mood-detection.git
-cd face-mood-detection
-flutter pub get
-flutter run
-
 ## Dependencies
 
 - **Flutter**: 3.0 and above
@@ -29,8 +19,18 @@ flutter run
 
 ## Screenshots
 
-Add screenshots of the app here if available.
+
 
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve this project.
+
+## Getting Started
+
+To get started with this project, clone the repository and ensure you have Flutter and the necessary dependencies installed.
+
+```bash
+git clone https://github.com/username/face-mood-detection.git
+cd face-mood-detection
+flutter pub get
+flutter run
