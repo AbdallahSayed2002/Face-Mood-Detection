@@ -1,6 +1,7 @@
 An innovative Flutter-based application for detecting facial expressions and analyzing mood using Google ML Kit. This app captures an image from the camera or gallery, processes it using machine learning models, and classifies the mood into predefined categories: happy, normal, sad, and angry. The project is designed with a clean, animated UI, powered by the GetX state management library.
 
 Features
+
 Real-time Face Detection: Utilizes Google ML Kit for facial analysis and mood classification based on the smiling probability.
 Mood Categories: Classifies moods into "Happy," "Normal," "Sad," and "Angry" with confidence levels displayed for each detection.
 Responsive & Animated UI: Smooth animations with GetX controllers for circle transitions and text animations.
