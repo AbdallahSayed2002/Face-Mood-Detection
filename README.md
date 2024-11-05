@@ -19,7 +19,8 @@ An innovative Flutter-based application for detecting facial expressions and ana
 
 ## Screenshots
 
-
+![Home Screen](assets/home_screen.jpeg)
+![View Screen](assets/view_screen.jpeg)
 
 ## Contributing
 
