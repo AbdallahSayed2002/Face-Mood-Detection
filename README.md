@@ -19,3 +19,18 @@ git clone https://github.com/username/face-mood-detection.git
 cd face-mood-detection
 flutter pub get
 flutter run
+
+## Dependencies
+
+- **Flutter**: 3.0 and above
+- **Google ML Kit**: `google_ml_kit` (for face and emotion detection)
+- **GetX**: For state management and animations
+- **Image Picker**: For selecting images from camera or gallery
+
+## Screenshots
+
+Add screenshots of the app here if available.
+
+## Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests to improve this project.
