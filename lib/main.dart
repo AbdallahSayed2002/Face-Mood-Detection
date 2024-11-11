@@ -14,9 +14,6 @@ class MyApp extends StatelessWidget {
     return GetMaterialApp(
       title: 'Face Mood Detector',
       debugShowCheckedModeBanner: false,
-      theme: ThemeData(
-        primarySwatch: Colors.cyan,
-      ),
       home: const SplashScreen(),
     );
   }
